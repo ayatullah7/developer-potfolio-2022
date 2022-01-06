@@ -1,0 +1,33 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+#orange-tag{
+    color: orange;
+}
+#container{
+    display:flex;
+
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+ 
+  
+}
+.half{
+    
+    width: 50%;
+    padding-left: 2%;
+
+   
+}
+.half img{
+    width: 80%;
+}
+#hireme{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(rgba(255, 72, 0, 0.918),tomato);
+    border-radius: 5px;
+    padding: 10px 40px 10px;
+   
+}
